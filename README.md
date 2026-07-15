@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/github/followers/keshara05?label=Followers&style=social" alt="Followers" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
 ---
 
 ## 💫 About Me
@@ -48,6 +52,63 @@ I'm a passionate developer focused on building awesome web experiences, polishin
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/keshara05/Keshara-Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Keshara-Portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/keshara05/Front-end">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Front-end&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/keshara05/Higher-Education-SL">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Higher-Education-SL&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/keshara05/Portfolio-Keshara">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Portfolio-Keshara&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🧠 Skills Breakdown
+
+<p align="left">
+  <b>HTML5</b>
+  <img src="https://progress-bar.dev/95/?scale=100&title=&width=250&color=e34f26" />
+</p>
+<p align="left">
+  <b>CSS3 </b>
+  <img src="https://progress-bar.dev/90/?scale=100&title=&width=250&color=1572b6" />
+</p>
+<p align="left">
+  <b>JavaScript</b>
+  <img src="https://progress-bar.dev/80/?scale=100&title=&width=250&color=f7df1e" />
+</p>
+<p align="left">
+  <b>React&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://progress-bar.dev/70/?scale=100&title=&width=250&color=61dafb" />
+</p>
+<p align="left">
+  <b>Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://progress-bar.dev/85/?scale=100&title=&width=250&color=f05033" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keshara05/keshara05/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+</p>
+
+> 💡 To activate this: add the **`snk`** GitHub Action to your profile repo (`platane/snk`) — it auto-generates this animated snake from your contribution graph daily.
+
+---
+
 ## 📊 GitHub Analytics & Performance
 
 <p align="center">
@@ -78,7 +139,7 @@ I'm a passionate developer focused on building awesome web experiences, polishin
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://keshararathnayaka.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
