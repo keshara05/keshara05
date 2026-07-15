@@ -56,19 +56,19 @@ I'm a passionate developer focused on building awesome web experiences, polishin
 
 <p align="center">
   <a href="https://github.com/keshara05/Keshara-Portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Keshara-Portfolio&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=keshara05&repo=Keshara-Portfolio&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/keshara05/Front-end">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Front-end&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=keshara05&repo=Front-end&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/keshara05/Higher-Education-SL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Higher-Education-SL&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=keshara05&repo=Higher-Education-SL&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/keshara05/Portfolio-Keshara">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshara05&repo=Portfolio-Keshara&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=keshara05&repo=Portfolio-Keshara&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -112,8 +112,8 @@ I'm a passionate developer focused on building awesome web experiences, polishin
 ## 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshara05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Keshara's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshara05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=keshara05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Keshara's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keshara05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
